@@ -16,5 +16,10 @@
             },
             "problemMatcher": ["$gcc"]
         }
-    ]
+    ],
+    "files.associations": {
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp"
+    }
 }
